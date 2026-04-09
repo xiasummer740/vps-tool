@@ -8,7 +8,7 @@
 
 ```bash
 curl -sS -L https://raw.githubusercontent.com/xiasummer740/vps-tool/master/check.sh | bash
-\`\`\`
+```
 
 ### ✨ 核心功能
 
