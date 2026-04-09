@@ -6,9 +6,8 @@
 
 在任何 VPS 上直接复制并运行以下命令，即可看到深度看板。运行结束后脚本会自动销毁，不留痕迹。
 
-\`\`\`bash
+```bash
 curl -sS -L https://raw.githubusercontent.com/xiasummer740/vps-tool/master/check.sh | bash
-\`\`\`
 
 ### ✨ 核心功能
 
